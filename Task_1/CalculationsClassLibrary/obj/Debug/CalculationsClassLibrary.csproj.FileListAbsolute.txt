@@ -1,0 +1,9 @@
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\CalculationsClassLibrary.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\CalculationsClassLibrary.pdb
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\WebDriver.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\bin\Debug\WebDriver.xml
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\obj\Debug\CalculationsClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\obj\Debug\CalculationsClassLibrary.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\CalculationsClassLibrary\obj\Debug\CalculationsClassLibrary.pdb

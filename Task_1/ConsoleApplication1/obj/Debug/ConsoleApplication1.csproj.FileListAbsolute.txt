@@ -1,0 +1,11 @@
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\CalculationsClassLibrary.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\WebDriver.dll
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\CalculationsClassLibrary.pdb
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\bin\Debug\WebDriver.xml
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vlad2572\documents\visual studio 2013\Projects\Task_1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
