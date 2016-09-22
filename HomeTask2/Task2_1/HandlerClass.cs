@@ -27,14 +27,31 @@ namespace Task2_1
                 if (regex1.IsMatch(innerString))
                 {
                     primaryText = opers.Reading(innerString);
-                    modifiedText = opers.TextModifying(primaryText);
-                    opers.Writing(innerString, modifiedText);
+                    if (!primaryText.Equals(""))
+                    {
+                        modifiedText = opers.TextModifying(primaryText);
+                        opers.Writing(innerString, modifiedText);
+                        Console.WriteLine("Modified string writed to file, check it");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Empty string inserted");
+                    }
+                    
                 }
                 /* Работа с текстом из консоли                     */
                 else
                 {
-                    modifiedText = opers.TextModifying(innerString);
-                    Console.WriteLine(modifiedText);
+                    if (!innerString.Equals(""))
+                    {
+                        modifiedText = opers.TextModifying(innerString);
+                        Console.WriteLine(modifiedText);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Empty string inserted");
+                    }
+                   
                 }
             }
             catch (System.IO.FileNotFoundException)

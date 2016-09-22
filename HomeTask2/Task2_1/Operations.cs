@@ -40,10 +40,6 @@ namespace Task2_1
                 text = text.Replace("! ", "!\n" + date);
                 text = text.Replace("... ", "...\n" + date);
             }
-            else
-            {
-                Console.WriteLine("Empty string inserted");
-            }
             return text;
         }
 
