@@ -1,0 +1,12 @@
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\vlad2572\OneDrive\Task_3\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
