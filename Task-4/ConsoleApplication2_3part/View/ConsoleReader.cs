@@ -57,7 +57,8 @@ namespace ConsoleApplication2_3part
                     coefficient2 = float.Parse(Console.ReadLine());
                     Console.WriteLine("Enter third coefficient");
                     coefficient3 = float.Parse(Console.ReadLine());
-                    if (coefficient1 != 0 && coefficient1 > -1000 && coefficient1 < 1000 && coefficient2 > -1000 && coefficient2 < 1000)
+                    if (coefficient1 != 0 && coefficient1 > -1000 && coefficient1 < 1000 && coefficient2 > -1000 && coefficient2 < 1000
+                        && coefficient3 > -1000 && coefficient3 < 1000)
                     {
                         flag = true;
                     }

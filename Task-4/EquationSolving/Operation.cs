@@ -9,6 +9,11 @@ namespace EquationSolving
 {
     public class Operation
     {
+        public int MatrixAStringCount { get; set; }
+        public int MatrixAColumnCount { get; set; }
+        public int MatrixBStringCount { get; set; }
+        public int MatrixBColumnCount { get; set; }
+
         public float SolveLinearEquation(float coefficientA, float coefficientB)
         {
             float radical = (float)-coefficientB / coefficientA;
@@ -38,39 +43,76 @@ namespace EquationSolving
             return roots;
         }
         
-        public float MatrixMultiplication(string filePath)
+        public float[,] MatrixMultiplication(List<float[,]> matrixxx)
         {
 
-
-
-            return 0;
-        }
-
-        public void ParseMatrix(List<string> source)
-        {
-            //const string DIGITS = @"\";
-            //Regex regex = new Regex(DIGITS);
-
-            var stringArray = source[1].Split(';');
-            int yLength = stringArray.Length;
-            string[] strArray;
-            string[] elemArray;
-            List<float> elems = new List<float>();
- 
-            foreach (var str in stringArray)
+            if (MatrixAColumnCount != MatrixBStringCount)
             {
-                elemArray = str.Split(',');
-                for (int i = 0; i < elemArray.Length; i++)
-                {
-                    
-                }
-                //elems.Add(elemArray);
+                Console.WriteLine("Multiplication is impossible. Invalid sizes: " , 
+                    "columns count of first matrix not equal string count of second matrix");
+                return null;
             }
-            
-
-
-
-             
+            else
+            {
+                float[,] resultMatrix = new float[MatrixAStringCount, MatrixBColumnCount];
+                for (int i = 0; i < MatrixAStringCount; i++)
+                {
+                    for (int j = 0; j < MatrixBColumnCount; j++)
+                    {
+                        for (int k = 0; k < MatrixBStringCount; k++)
+                        {
+                            resultMatrix[i, j] += matrixxx[0][i, k] * matrixxx[1][k, j];
+                        }
+                    }
+                }
+                return resultMatrix;
+            }
         }
+
+        public List<float[,]> ParseMatrix(List<string> source)
+        {
+            const string DIGITS = @"\d";
+            Regex regex = new Regex(DIGITS);
+            List<float[,]> digitMatrix = new List<float[,]>();
+
+            for (int i = 0; i < 2; i++)
+            {
+                var stringArray = source[i].Split(';');
+                int stringCount = stringArray.Length;
+                var elemArray = stringArray[0].Split(',');
+                int columnCount = elemArray.Length;
+                elemArray = null;
+                int iterator = 0;
+
+                if (i == 0)
+                {
+                    MatrixAColumnCount = columnCount;
+                    MatrixAStringCount = stringCount;
+                }
+                if (i == 1)
+                {
+                    MatrixBColumnCount = columnCount;
+                    MatrixBStringCount = stringCount;
+                }
+
+                float[,] matrix = new float[stringCount, columnCount];
+
+                foreach (var str in stringArray)
+                {
+                    elemArray = str.Split(',');
+                    for (int k = 0; k < elemArray.Length; k++)
+                    {
+                        string element = (regex.Match(elemArray[k])).ToString();
+
+                        float.TryParse(element, out matrix[iterator, k]);
+                        //Console.WriteLine(matrix[iterator, k]);
+                    }
+                    iterator++;
+                }
+                digitMatrix.Add(matrix);      
+            }
+            return digitMatrix;
+        }
+
     }
 }

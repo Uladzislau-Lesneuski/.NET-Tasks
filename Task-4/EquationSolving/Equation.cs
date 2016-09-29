@@ -27,8 +27,5 @@ namespace EquationSolving
             coefficientB = b;
             coefficientC = c;
         }
-
-        
-
     }
 }

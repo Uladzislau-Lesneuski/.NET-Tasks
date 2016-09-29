@@ -8,3 +8,8 @@ C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\bin\Debug\Equati
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.dll
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.dll
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.dll
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.pdb

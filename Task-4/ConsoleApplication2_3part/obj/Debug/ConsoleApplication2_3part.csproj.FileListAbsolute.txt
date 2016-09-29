@@ -20,3 +20,11 @@ C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\De
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.dll
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.pdb
 C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.exe.config
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.exe
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.exe
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.dll
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.pdb

@@ -1,6 +1,7 @@
 ﻿using System;
 using EquationSolving;
 using System.Collections.Generic;
+using ConsoleApplication2_3part.Utils;
 
 namespace ConsoleApplication2_3part
 {
@@ -8,6 +9,7 @@ namespace ConsoleApplication2_3part
     {
         private static Operation ACTION = new Operation();
         private static Logger LOG = new Logger();
+        private const string PATH = "d:/matrix.txt";
 
         List<double> roots = new List<double>();
 
@@ -43,11 +45,24 @@ namespace ConsoleApplication2_3part
                     }
                 }
                 else Console.WriteLine("Check entered params");
+
+                //Умножение матриц
+                Console.WriteLine();
+                Console.WriteLine("Solve Matrix Multiplying");
+                Console.WriteLine();
+                Reader fileReader = new Reader();
+
+                List<float[,]> list = new List<float[,]>();
+                list = ACTION.ParseMatrix(fileReader.ReadFile(PATH));
+                ConsoleWriter cw = new ConsoleWriter();
+                //fileReader.ReadFile(PATH);
+                cw.WriteResultMatrix(ACTION.MatrixMultiplication(list));
             }
             catch (Exception)
             {
 
-                throw;
+                //throw;
+                Console.WriteLine("Exception: likely its not possile to solve equation with this roots");
             }
         }
     }

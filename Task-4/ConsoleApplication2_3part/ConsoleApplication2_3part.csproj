@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Manager\HandleManager.cs" />
+    <Compile Include="Utils\ConsoleWriter.cs" />
     <Compile Include="Utils\Logger.cs" />
     <Compile Include="Utils\Reader.cs" />
     <Compile Include="View\Program.cs" />
