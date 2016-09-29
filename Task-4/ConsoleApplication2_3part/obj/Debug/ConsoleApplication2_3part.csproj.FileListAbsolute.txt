@@ -12,3 +12,11 @@ C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplicatio
 C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.pdb
 C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.dll
 C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.exe.config
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.exe
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.exe
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\ConsoleApplication2_3part.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.dll
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\bin\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\ConsoleApplication2_3part\obj\Debug\ConsoleApplication2_3part.csprojResolveAssemblyReference.cache

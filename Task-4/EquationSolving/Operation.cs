@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace EquationSolving
@@ -43,6 +44,33 @@ namespace EquationSolving
 
 
             return 0;
+        }
+
+        public void ParseMatrix(List<string> source)
+        {
+            //const string DIGITS = @"\";
+            //Regex regex = new Regex(DIGITS);
+
+            var stringArray = source[1].Split(';');
+            int yLength = stringArray.Length;
+            string[] strArray;
+            string[] elemArray;
+            List<float> elems = new List<float>();
+ 
+            foreach (var str in stringArray)
+            {
+                elemArray = str.Split(',');
+                for (int i = 0; i < elemArray.Length; i++)
+                {
+                    
+                }
+                //elems.Add(elemArray);
+            }
+            
+
+
+
+             
         }
     }
 }
